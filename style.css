@@ -203,6 +203,7 @@ a {
 .furniture-text {
   text-align: center;
   line-height: 1.8rem;
+  margin-bottom: 40px;
 }
 .furniture-text h1 {
   font-size: 30px;
@@ -210,6 +211,9 @@ a {
 .furniture-imgs {
   display: flex;
   flex-wrap: wrap;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
 }
 /* footer section */
 .footer-section {
