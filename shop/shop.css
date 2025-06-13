@@ -21,7 +21,7 @@ a {
 .site-header {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-evenly;
   padding-bottom: 20px;
 }
 .logo-branding {
@@ -58,6 +58,9 @@ a {
 }
 .hero-content {
   position: relative;
+}
+.hero-content img {
+  width: 100%;
 }
 .hero-text {
   position: absolute;
