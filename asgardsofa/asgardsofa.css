@@ -50,3 +50,267 @@ a {
 .hero-logo img {
   width: 20px;
 }
+.hero-content {
+  background-color: #f9f1e7;
+  height: 100px;
+}
+.hero-text {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  padding-top: 28px;
+  padding-left: 80px;
+}
+.hero-text p {
+  color: #9f9f9f;
+  padding-top: 8px;
+}
+.hero-text h5 {
+  padding-top: 9px;
+}
+.hero-text i {
+  padding-top: 10px;
+}
+/* Asgard Section */
+.asgard-main {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 180px;
+}
+.asgard-section {
+  margin-top: 50px;
+}
+.imgs-column1 img {
+  padding-bottom: 25px;
+}
+.asgardsofa-imgs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.asgard-content h1 {
+  margin-bottom: 10px;
+  font-size: 35px;
+}
+.rs-para {
+  color: #9f9f9f;
+}
+.asgard-logo {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.asgard-logo p {
+  margin-top: 10px;
+  color: #9f9f9f;
+}
+.asgard-para {
+  width: 415px;
+  line-height: 1.5rem;
+  margin-top: 10px;
+}
+.size-para {
+  color: #9f9f9f;
+  margin-top: 20px;
+}
+.asgard-btn {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 15px;
+}
+.asgard-btn button {
+  padding: 8px 10px;
+  border: none;
+  background-color: #f9f1e7;
+  border-radius: 5px;
+}
+.asgard-btn button:hover {
+  background-color: #b88e2f;
+  color: white;
+}
+.clr-para {
+  color: #9f9f9f;
+  margin-top: 20px;
+}
+.asgard-color {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 15px;
+}
+.cart-btn {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 30px;
+}
+.cart-btn button {
+  padding: 13px 40px;
+  border-radius: 10px;
+  border: 1px solid black;
+  background-color: transparent;
+}
+hr {
+  margin-top: 35px;
+  color: #d9d9d9;
+}
+.asgard-text {
+  margin-top: 40px;
+}
+.asgard-text1 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  color: #9f9f9f;
+  line-height: 2rem;
+}
+.asgard-text1 img {
+  height: 10px;
+  margin-top: 15px;
+}
+.img-1 {
+  margin-left: 27px;
+}
+.img-3 {
+  margin-left: 28px;
+}
+/* descrition section */
+.description-section {
+  margin-top: 60px;
+  box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px,
+    rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.description-text {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  text-align: center;
+  justify-content: center;
+}
+.description-text h3 {
+  color: #9f9f9f;
+  margin-top: 4px;
+}
+.description-para1 {
+  color: #9f9f9f;
+  width: 820px;
+  margin: 0 auto;
+  line-height: 1.3rem;
+  margin-top: 30px;
+}
+.description-para2 {
+  color: #9f9f9f;
+  width: 830px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.description-imgs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+  margin-top: 25px;
+}
+/* product section */
+.product-section {
+  margin-top: 50px;
+}
+.product-section h1 {
+  text-align: center;
+  justify-content: center;
+  margin-bottom: 30px;
+  font-size: 30px;
+}
+.products-column1 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 25px;
+}
+.column-text {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.column-img1 {
+  line-height: 1.7rem;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  width: fit-content;
+}
+.text {
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-bottom: 20px;
+  background-color: #f4f5f7;
+}
+.show-btn {
+  text-align: center;
+  justify-content: center;
+  margin-top: 30px;
+}
+.show-btn button {
+  padding: 10px 40px;
+  border-color: #b88e2f;
+  border-radius: 4px;
+  color: #b88e2f;
+  background-color: transparent;
+}
+/* footer section */
+.footer-section {
+  box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px,
+    rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+.footer-main {
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 300px;
+  padding-top: 20px;
+}
+.footer-text {
+  margin-top: 28px;
+  margin-left: 80px;
+}
+.footer-text p {
+  margin-top: 30px;
+  line-height: 1.3rem;
+  color: #9f9f9f;
+}
+.footer-text h5 {
+  margin-top: 230px;
+  color: #000000;
+  margin-bottom: 20px;
+}
+.footer-content {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 130px;
+}
+.footer-text1 {
+  line-height: 4rem;
+}
+.footer-text1 h5 {
+  color: #9f9f9f;
+}
+.input-text {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.input-text input {
+  border: none;
+  outline-style: none;
+}
+.input-text button {
+  border: none;
+  background-color: transparent;
+  color: black;
+}
